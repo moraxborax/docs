@@ -1,4 +1,50 @@
 site_name: moraxborax's docs
 site_url: https://moraxborax.github.io/docs
+repo_url: https://github.com/moraxborax/docs
+repo_name: moraxborax/docs
+
+copyright: 
+    Docs  © 2026 by moraxborax is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+
 theme:
   name: material
+  features:
+    - navigation.footer
+
+  
+  icon:
+    repo: material/github
+
+  palette: 
+    
+
+    - media: "(prefers-color-scheme)"
+      
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: blue grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/moraxborax
+
+    

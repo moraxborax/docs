@@ -19,3 +19,19 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 # Docs
 
 A webpage for all my docs
+
+Here is a list of all my repos:
+
+reliable ones:
+
+- [my website](https://github.com/moraxborax/moraxborax.github.io)
+
+- [learning golang](https://github.com/moraxborax/its-mygo)
+
+these listed below are vibecoded so its not really reliable
+
+- [ai inbox](https://github.com/moraxborax/me-ru)
+
+- [bilibili ad skipper](https://github.com/moraxborax/21st-century-schizoid-ad)
+
+- [many pause-able timers](github.com/moraxborax/za-warudo)
